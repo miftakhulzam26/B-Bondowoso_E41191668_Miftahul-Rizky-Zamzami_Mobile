@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tugas Layout</string>
+    <string name="reminder">reminder</string>
+    <string name="done">done</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="scroll_view">Scroll View</string>
+    <string name="welcome">Welcome</string>
+    <string name="button_one">button one</string>
+    <string name="button_two">button two</string>
+    <string name="button_three">button three</string>
+    <string name="button_four">button four</string>
+    <string name="button_five">button five</string>
+    <string name="button_six">button six</string>
+    <string name="button_seven">button seven</string>
+    <string name="button_eight">button eight</string>
+    <string name="button_nine">button nine</string>
+
+    <array name="dates">
+        <item>Wed, June 27, 2012</item>
+    </array>
+    <array name="times">
+        <item>8.00am</item>
+    </array>
+
+</resources>
